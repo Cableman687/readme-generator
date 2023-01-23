@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Cableman687/readme-generator#readme",
   "dependencies": {
+    "@inquirer/select": "^0.0.29-alpha.0",
     "inquirer": "^8.2.4"
   }
 }
