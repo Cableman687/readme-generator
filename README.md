@@ -1,7 +1,7 @@
-# Test Project #1
+# sdfg
 
 ## Description
-A great one
+sdfg
     
 ## Table of Contents
 
@@ -16,24 +16,28 @@ A great one
     
     
 ## Installation
-with a computer
+sdfg
     
 ## Usage
-keyboard and mouse
+sdfg
     
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-,A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+
+A simple permissive license only requiring preservation of copyright and license notices for source (and not binary) distribution. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
     
 ## Contributing
-They dont
+sdfg
     
 ## Tests
-Create a test folder
+sdfg
     
 ## Questions
 If you have any questions you would like to ask about this project, please reach out using my email below!
-will_cable@hotmail.com
+
+sdfg
  
 Otherwise, please feel free to check out my full profile!:
-https://github.com/Cableman687
+
+https://github.com/sdfg
