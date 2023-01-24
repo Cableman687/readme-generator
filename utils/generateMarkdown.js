@@ -105,7 +105,7 @@ function renderLicenseBadge(license) {
   // Create a function that returns the license section of README
   // If there is no license, return an empty string
   function renderLicenseSection(license) {
-    const string = `This project is licensed using the ${license} license. For more information, please use the link below:`;
+    const string = `This project is licensed using the ${license} license. For more information, please use the following link:`;
     if(license){
       return [renderLicenseBadge(license) + "\n" + string + "\n" + renderLicenseLink(license)];
     } else {
