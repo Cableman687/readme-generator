@@ -129,7 +129,7 @@ ${data.description}
     - [Usage](#usage)
     - [License](#license)
     - [Contributing](#contributing)
-    - [Tests](#test)
+    - [Tests](#testing)
     - [Questions](#questions)
         
         

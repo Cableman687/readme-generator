@@ -20,6 +20,9 @@ https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
 
 ## Usage
 
+Instructional Video:
+https://drive.google.com/file/d/1zV8G_o3xJe8JoweFmvJBjPyduPpu2pgE/view
+
 Using GitBash, navigate to the application directory. Once inside, use command prompt 'node index.js' to begin a series of prompts requesting information from the user. Each answer will be used to build the README output.
 
 ![screenshot](/assets/application-screenshot.JPG)
