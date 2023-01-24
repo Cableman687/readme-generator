@@ -1,18 +1,10 @@
-// TODO: Include packages needed for this application
+// Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require("./utils/generateMarkdown");
 
-// var chooseLicense = function(response){
-
-//     console.log(response);
-
-    
-// }
-
-
 function startPrompts() {
-    // TODO: Create an array of questions for user input
+    // Create an array of questions for user input
     inquirer.prompt([
         {
             type: "input",
@@ -96,13 +88,13 @@ function startPrompts() {
 
 )}
 
-// TODO: Create a function to write README file
+// Create a function to write README file
 function writeToFile(data){
     fs.writeFile('READMEgen.md', data, (err) => 
     err ? console.error(err) : console.log("Success!"))
    }
 
-// TODO: Create a function to initialize app
+// Create a function to initialize app
 function init() {
     startPrompts();
 }

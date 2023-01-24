@@ -1,4 +1,4 @@
-# sdf
+# sdfg
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
       
@@ -26,6 +26,7 @@ sdfg
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+This project is licensed using the MIT License license. For more information, please use the link below:
 https://choosealicense.com/licenses/mit/
         
 ## Contributing
