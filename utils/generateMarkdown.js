@@ -115,45 +115,44 @@ function renderLicenseBadge(license) {
   // TODO: Create a function to generate markdown for README
   function generateMarkdown(data) {
     return `# ${data.title}
-    ${renderLicenseBadge(data.license)}
+${renderLicenseBadge(data.license)}
       
-    ## Description
-    ${data.description}
+## Description
+${data.description}
         
-    ## Table of Contents
+## Table of Contents
     
-    - [Markdown Navigation](#markdown-navigation)
-        - [Description](#description)
-        - [Installation](#installation)
-        - [Usage](#usage)
-        - [License](#license)
-        - [Contributing](#contributing)
-        - [Tests](#test)
-        - [Questions](#questions)
+- [Markdown Navigation](#markdown-navigation)
+     - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contributing](#contributing)
+    - [Tests](#test)
+    - [Questions](#questions)
         
         
-    ## Installation
-    ${data.installation}
+## Installation
+${data.installation}
         
-    ## Usage
-    ${data.usage}
+## Usage
+${data.usage}
         
-    ## License
-    ${renderLicenseSection(data.license)}
+## License
+${renderLicenseSection(data.license)}
         
-    ## Contributing
-    ${data.contributing}
+## Contributing
+${data.contributing}
         
-    ## Tests
-    ${data.testing}
+## Tests
+${data.testing}
         
-    ## Questions
-    If you have any questions you would like to ask about this project, please reach out using my email below!\n
-    ${data.email}
+## Questions
+If you have any questions you would like to ask about this project, please reach out using my email below!\n
+${data.email}
      
-    Otherwise, please feel free to check out my full profile!:\n
-    https://github.com/${data.username}
-    
+Otherwise, please feel free to check out my full profile!:\n
+https://github.com/${data.username} 
   
   `;
   }

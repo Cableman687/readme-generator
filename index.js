@@ -98,7 +98,7 @@ function startPrompts() {
 
 // TODO: Create a function to write README file
 function writeToFile(data){
-    fs.writeFile('README.md', data, (err) => 
+    fs.writeFile('READMEgen.md', data, (err) => 
     err ? console.error(err) : console.log("Success!"))
    }
 
