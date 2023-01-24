@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - The motivation to complete this challenge was to test my own skills gained in the most recent week of the coding bootcamp, including but not limited to: Arrow Functions, Template Literals, Reading/Writing Files and others.
 - This project was built as a testing ground for my own retention of the aforementioned skills.
 - This application allows the user to save time otherwise spent creating a README, and automates many of the file structuring and layout requirements for a high quality README.
