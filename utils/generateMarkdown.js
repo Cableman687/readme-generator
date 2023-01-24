@@ -124,7 +124,7 @@ ${data.description}
 ## Table of Contents
     
 - [Markdown Navigation](#markdown-navigation)
-     - [Description](#description)
+    - [Description](#description)
     - [Installation](#installation)
     - [Usage](#usage)
     - [License](#license)
